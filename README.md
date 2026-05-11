@@ -55,12 +55,6 @@ I love building:
 * Clean boxy UI
 * Railway-inspired aesthetics
 
-
-
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: ADD_LINK
-* Portfolio: COMING_SOON
-
 ---
 
 > Build. Break. Learn. Repeat.
