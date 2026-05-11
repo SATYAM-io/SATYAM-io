@@ -38,6 +38,8 @@ I build mobile apps, games, and experimental projects focused on real-time syste
 * Unity
 * Blender
 
+  [![trophy](https://github-profile-trophy.vercel.app/?username=SATYAM-io&theme=onedark&title=-Stars,-Issues,-PullRequest,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Currently Learning
 
 * Mobile Development
