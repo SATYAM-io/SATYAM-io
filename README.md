@@ -46,14 +46,7 @@ I build mobile apps, games, and experimental projects focused on real-time syste
 * System Design
 * DevOps Basics
 
-## 🎨 Design Style
-
-I love building:
-
-* Sleek dark interfaces
-* Minimal futuristic dashboards
-* Clean boxy UI
-* Railway-inspired aesthetics
+I love building
 
 ---
 
