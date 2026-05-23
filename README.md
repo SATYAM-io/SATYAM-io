@@ -51,3 +51,5 @@ I love building
 ---
 
 > Build. Break. Learn. Repeat.
+>
+> ![](https://komarev.com/ghpvc/?username=SATYAM-io)
